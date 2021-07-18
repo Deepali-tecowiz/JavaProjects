@@ -58,6 +58,6 @@ public class SmartMeterReadParserMainApp implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("------ This application parse meter read data from smart meters -----");
-		//parseSampleMeterReadData();
+		parseSampleMeterReadData();
 	}
 }
