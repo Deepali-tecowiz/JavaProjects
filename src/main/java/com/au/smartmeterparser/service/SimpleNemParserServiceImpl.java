@@ -22,7 +22,7 @@ import com.au.smartmeterparser.config.SmartMeterReadConfig;
 import com.au.smartmeterparser.exception.InvalidRowException;
 import com.au.smartmeterparser.service.util.CommonAppUtils;
 
-//Copyright Red Energy Limited 2017
+ 
 
 /**
  * This class parse the meter reading block and it's details i.e. meter volume, size for a specific date
