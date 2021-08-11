@@ -1,7 +1,6 @@
 package com.au.smartmeterparser.service;
 
-// Copyright Red Energy Limited ;
-/**
+ /**
  * Interface to parse meter reading block and it's details
  */
 
