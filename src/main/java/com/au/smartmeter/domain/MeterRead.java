@@ -7,7 +7,6 @@ import java.time.LocalDate;
 import java.util.Objects;
 import java.util.SortedMap;
 import java.util.TreeMap;
-//Copyright Red Energy Limited 2017
 
 /**
  * Represents a meter read, corresponds to RecordType 200 in SimpleNem12
