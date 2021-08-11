@@ -6,8 +6,7 @@ import java.util.Objects;
 
 
 
-//Copyright Red Energy Limited 2017
-
+ 
 /**
  * Represents a meter volume with quality, values should come from RecordType 300
  */
