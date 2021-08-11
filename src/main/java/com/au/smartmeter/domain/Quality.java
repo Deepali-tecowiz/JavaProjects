@@ -1,7 +1,6 @@
 package com.au.smartmeter.domain;
 
-// Copyright Red Energy Limited 2017
-
+ 
  
 /**
  * Represents meter read quality in SimpleNem12
